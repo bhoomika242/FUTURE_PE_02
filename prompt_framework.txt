@@ -1,1 +1,32 @@
+PROMPT FRAMEWORK – UGC AD GENERATOR
 
+Objective:
+Generate authentic User Generated Content (UGC) style advertisements that feel natural, relatable, and conversion-focused.
+
+Business Information Required:
+- Brand Name
+- Product Name
+- Industry
+- Target Audience
+- Product Benefits
+- Brand Personality
+
+Content Requirements:
+- Generate multiple attention-grabbing hooks.
+- Write a short UGC-style ad script.
+- Follow the structure:
+  Hook → Problem → Solution → Benefits → Call-To-Action.
+- Maintain a friendly and authentic tone.
+- Avoid overly promotional or robotic language.
+
+Platform Adaptation:
+The generated content should be suitable for:
+- Instagram Reels
+- Facebook Ads
+- YouTube Shorts
+
+Expected Output:
+- Multiple Hooks
+- UGC Script
+- Strong CTA
+- Optional Caption
