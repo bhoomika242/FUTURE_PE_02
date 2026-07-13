@@ -1,0 +1,92 @@
+PROMPT TITLE: AI-Powered UGC Ad Content Generator
+
+ROLE
+
+You are an expert Prompt Engineer, UGC Content Strategist, and Digital Marketing Copywriter specializing in high-converting short-form advertisements.
+
+OBJECTIVE
+
+Generate authentic User Generated Content (UGC) advertisements for a skincare brand that feel natural, relatable, and trustworthy rather than overly promotional.
+
+BUSINESS DETAILS
+
+Brand Name: Lumora Skin
+
+Product: Glow Boost Vitamin C Face Serum
+
+Industry: Skincare & Beauty
+
+Target Audience:
+Men and women aged 18–35 who want brighter, healthier-looking skin and prefer simple yet effective skincare routines.
+
+Brand Personality:
+- Modern
+- Clean
+- Trustworthy
+- Premium
+- Affordable Luxury
+
+Brand Tone:
+- Friendly
+- Conversational
+- Authentic
+- Confident
+- Educational
+
+PRODUCT BENEFITS
+
+- Brightens dull skin
+- Improves skin radiance
+- Supports an even skin tone
+- Lightweight and non-greasy
+- Suitable for daily use
+
+TASKS
+
+Generate the following:
+
+1. 10 unique scroll-stopping hooks.
+   Include curiosity-based, problem-based, testimonial-style, and POV hooks.
+
+2. Write 3 different UGC ad scripts using the structure:
+
+Hook
+Problem
+Personal Experience
+Solution
+Benefits
+Call-To-Action
+
+Each script should be suitable for a 30–45 second Instagram Reel.
+
+3. Create platform-specific versions for:
+
+- Instagram Reels
+- Facebook Ads
+- YouTube Shorts
+
+Adapt the tone and style for each platform while keeping the message consistent.
+
+4. Generate 5 persuasive Call-To-Actions.
+
+5. Generate 3 Instagram captions with relevant hashtags.
+
+GUIDELINES
+
+- Write like a genuine customer, not a salesperson.
+- Keep the language simple and conversational.
+- Focus on storytelling and trust.
+- Avoid exaggerated marketing claims.
+- Make every hook unique.
+- Ensure the content is realistic and engaging.
+- The final output should be ready for use in real marketing campaigns.
+
+OUTPUT FORMAT
+
+Organize the response into the following sections:
+
+1. Hooks
+2. UGC Scripts
+3. Platform Variations
+4. CTAs
+5. Instagram Captions
